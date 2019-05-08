@@ -56,6 +56,7 @@ given requirement to be considered satisfied.
 
 ==========================================================================================================
 
+Chapter 1: Procurement
 [title]
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -69,4 +70,46 @@ given requirement to be considered satisfied.
 >
 > [rationale]
 
+Chapter 2: Licensing
+[title]
+---------------------------------------------------------------------------------------------------------------------------------
+
+1.  [Statement]
+
+> **Verification Artifact(s)**:
+
+-   1.1.1 [list of Verification Artifact(s)]
+
+> **Rationale**:
+>
+> [rationale]
+
+
+Chapter 3: Community
+[title]
+---------------------------------------------------------------------------------------------------------------------------------
+
+1.  [Statement]
+
+> **Verification Artifact(s)**:
+
+-   1.1.1 [list of Verification Artifact(s)]
+
+> **Rationale**:
+>
+> [rationale]
+
+[Chapter X]
+[title]
+---------------------------------------------------------------------------------------------------------------------------------
+
+1.  [Statement]
+
+> **Verification Artifact(s)**:
+
+-   1.1.1 [list of Verification Artifact(s)]
+
+> **Rationale**:
+>
+> [rationale]
 
